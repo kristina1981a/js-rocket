@@ -1,3 +1,16 @@
 body{	
   background-color: grey;
 }
+
+
+.cool{
+   width: 100px;
+   height: 100px;
+   background-color: green;
+   transition: background-color 1s;
+}
+
+
+.coo.red{
+   background-color: red;
+}
